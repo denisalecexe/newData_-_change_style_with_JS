@@ -18,5 +18,5 @@ function changeTextSize() {
 
 function changeTextFont() {
   document.getElementById("demoData").style.fontFamily =
-  "'Courier New', Courier, monospace";
+  "Arial, Helvetica, sans-serif";
 }
